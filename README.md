@@ -1,7 +1,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=majosnv&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-👨‍💻 My personal website [panenko.netlify](https://panenko.netlify.app/) 🚀 <br>🧠 I'm currently working as a Salesforce Consultant trainee at IBM<br>🌱 I’m currently learning Next.js, React (FrontEnd)<br>🏫 Bachelor degree Technical University of Košice Technical University of Košice<br>⚡ Hobbies healthy lifestyle, gym, motorbike
+👨‍💻 My personal website [panenko.netlify](https://panenko.netlify.app/) 🚀 <br>🧠 I'm currently working as a Salesforce Consultant trainee at IBM<br>🌱 I’m currently learning Salesforce (Admin & Apex), Next.js, React (FrontEnd)<br>🎓 Currently pursuing a Master's degree at Technical University of Košice<br>⚡ Hobbies healthy lifestyle, weight training, motorcycle
 
 
 ## 🌐 Socials:
