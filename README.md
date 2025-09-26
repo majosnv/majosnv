@@ -1,12 +1,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=majosnv&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🌍 Building my path in **web development** (Next.js, React) & experience in **Salesforce Marketing Cloud** <br>
+🌍 Building my path in **web development** (Next.js, React) with **hands-on experience in Salesforce Marketing Cloud** <br>
 🎓 Master’s student at **Technical University of Košice** (Computer Networks) <br>
 💡 I like creating projects where **data, automation and code** meet real-world use <br>
 📚 Currently learning **Next.js** and always curious about the **latest technologies** <br>
 ⚡ Outside tech: **gym, motorcycles, cars, healthy lifestyle** <br>
-🌐 Personal site: [panenko.netlify](https://panenko.netlify) 🚀<br>
+🌐 Personal site: [panenko.netlify](https://panenko.netlify) 🚀 <br>
 
 
 ## 🌐 Socials:
