@@ -1,42 +1,31 @@
-![](https://github-profile-trophy.vercel.app/?username=majosnv&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-# 💫 About Me:
-🌍 Building my path in **web development** (Next.js, React) with **hands-on experience in Salesforce Marketing Cloud** <br>
-🎓 Master’s student at **Technical University of Košice** (Computer Networks) <br>
-💡 Exploring AI tools and prompts to improve efficiency <br>
-📚 Currently learning **Next.js** and always curious about the **latest technologies** <br>
-⚡ Outside tech: **gym, motorcycles, cars, healthy lifestyle** <br>
-🌐 Personal site: [https://panenko.vercel.app] 🚀 <br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/majosnv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariopanenko) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/majosnv) 
-
-## 💻 Tech Stack
-
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Salesforce Marketing Cloud](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![AMPscript](https://img.shields.io/badge/AMPscript-009EDB?style=for-the-badge&logo=salesforce&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Workfront](https://img.shields.io/badge/Workfront-F15A24?style=for-the-badge&logo=adobe&logoColor=white) 
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
-![CRM Databases](https://img.shields.io/badge/CRM_Databases-FF6F00?style=for-the-badge&logo=database&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-
+# Mario Panenko
+Master's student at Technical University of Košice specializing in Computer Networks and Web Development. Bridging the gap between network infrastructure and modern software engineering with hands-on experience in Salesforce Marketing Cloud.
 ---
-[![](https://visitcount.itsvg.in/api?id=majosnv&icon=0&color=0)](https://visitcount.itsvg.in)
+### Professional Profile
+- **Education:** TUKE | Computer Systems Networking and Telecommunications
+- **Expertise:** Web Development (React, Next.js), Network Security, Salesforce Consulting
+- **Interests:** AI Implementation, Cloud Infrastructure, Advanced Networking
+- **Activities:** Gym, Motorcycles, Cars, Healthy Lifestyle
+### Technical Stack
+**Frontend & Web**
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+**Enterprise & Backend**
+![Salesforce](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+**Tools & Infrastructure**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-188FFF?style=flat-square&logo=virtualbox&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+---
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariopanenko)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://panenko.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mariopanenko@gmail.com)
+---
+![Visitor Count](https://visitcount.itsvg.in/api?id=majosnv&icon=0&color=0)
