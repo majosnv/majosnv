@@ -6,7 +6,7 @@
 💡 Exploring AI tools and prompts to improve efficiency <br>
 📚 Currently learning **Next.js** and always curious about the **latest technologies** <br>
 ⚡ Outside tech: **gym, motorcycles, cars, healthy lifestyle** <br>
-🌐 Personal site: [https://panenko.netlify.app] 🚀 <br>
+🌐 Personal site: [https://panenko.vercel.app] 🚀 <br>
 
 
 ## 🌐 Socials:
