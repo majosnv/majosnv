@@ -1,4 +1,4 @@
-# Mario Panenko
+# Mário Panenko
 
 Master's student at Technical University of Košice specializing in Computer Networks and Web Development. Bridging the gap between network infrastructure and modern software engineering with hands-on experience in Salesforce Marketing Cloud.
 
