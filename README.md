@@ -35,7 +35,7 @@ Master's student at Technical University of Košice specializing in Computer Net
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariopanenko)
-[![Portfolio](https://img.shields.io/badge/Website-panenko.sk-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://panenko.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Website-panenko.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://panenko.dev)
 [![Email](https://img.shields.io/badge/Email-mariopanenko@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariopanenko@gmail.com)
 
 ---
